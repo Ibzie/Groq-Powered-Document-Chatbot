@@ -26,7 +26,7 @@ PDF-Chat is an AI-powered document assistant that allows you to have natural con
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/toupdate
+git clone https://github.com/Ibzie/Groq-Powered-Document-Chatbot.git
 cd pdf-chat
 ```
 
