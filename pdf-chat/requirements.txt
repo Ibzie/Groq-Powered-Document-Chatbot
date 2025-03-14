@@ -1,0 +1,8 @@
+PyPDF2
+langchain>=0.0.267
+langchain-community
+langchain-groq
+chainlit
+python-dotenv
+chromadb
+sentence-transformers

@@ -1,2 +1,0 @@
-Error: ValueError: Error raised by inference API HTTP code: 404, {"error":"model 'nomic-embed-text' not found, try pulling it first"}
-Solution: Ollama pull nomic-embed-text
